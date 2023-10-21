@@ -1,0 +1,7 @@
+C:\Users\gipszjakab\source\repos\vsapp\WebApplication1\WebApplication1\obj\Docker\publish\WebApplication1.exe
+C:\Users\gipszjakab\source\repos\vsapp\WebApplication1\WebApplication1\obj\Docker\publish\appsettings.Development.json
+C:\Users\gipszjakab\source\repos\vsapp\WebApplication1\WebApplication1\obj\Docker\publish\appsettings.json
+C:\Users\gipszjakab\source\repos\vsapp\WebApplication1\WebApplication1\obj\Docker\publish\WebApplication1.dll
+C:\Users\gipszjakab\source\repos\vsapp\WebApplication1\WebApplication1\obj\Docker\publish\WebApplication1.deps.json
+C:\Users\gipszjakab\source\repos\vsapp\WebApplication1\WebApplication1\obj\Docker\publish\WebApplication1.runtimeconfig.json
+C:\Users\gipszjakab\source\repos\vsapp\WebApplication1\WebApplication1\obj\Docker\publish\WebApplication1.pdb
